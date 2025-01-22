@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Simran Sharma</h1>
 <h3 align="center">A passionate MERN stack web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=EqhbMowinbzPF91BjJkkrlaPtfgghLq41G_igcEsnTU">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b562d5a9-c424-46cb-bb18-cfe8aa6f9ec7)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simransharma-ui&label=Profile%20views&color=0e75b6&style=flat" alt="simransharma-ui" /> </p>
 
