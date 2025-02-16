@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-flame-eight-79.vercel.app/](https://portfolio-flame-eight-79.vercel.app/)
 
-- 📫 How to reach me **sharmasimran@gmail.com**
+- 📫 How to reach me **sharmasimran0675@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
